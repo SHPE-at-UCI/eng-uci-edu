@@ -1,2 +1,2 @@
-# sites.uci.edu-shpe
-Static website for SHPE at UCI
+# shpe.eng.uci.edu
+WordPress website repo for SHPE at UCI
